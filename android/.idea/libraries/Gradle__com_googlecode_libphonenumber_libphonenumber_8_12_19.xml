@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.googlecode.libphonenumber:libphonenumber:8.12.19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.12.19/dcd3b3ecd5464ea2a180bf1ab91b05ac511c8407/libphonenumber-8.12.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.12.19/4f452a90b920869023415a1778166eca9a85f77/libphonenumber-8.12.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.12.19/5024e9d657dee5508991cf77c0d742f58adbbda7/libphonenumber-8.12.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

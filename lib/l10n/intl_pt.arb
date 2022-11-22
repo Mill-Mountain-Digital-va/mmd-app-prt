@@ -1,0 +1,16 @@
+{
+    "break_str": "Break",
+    "exercise": "Exercise",
+    "turn_break_str": "Turn Break",
+    "turn": "Turn",
+    "next_turn": "Next Turn",
+    "finish_workout": "Finish Workout",
+    "wrong_email_or_password": "Wrong Email or Password",
+    "welcome": "Welcome",
+    "you_must_signin_to_access_to_this_section" : "You must signin to access to this section",
+    "login": "Login",
+    "signup": "Sign UP",
+    "i_dont_have_an_account": "I dont have an account",
+    "exercise_help": "Exercise Help",
+    "get_ready": "Get Ready"
+}

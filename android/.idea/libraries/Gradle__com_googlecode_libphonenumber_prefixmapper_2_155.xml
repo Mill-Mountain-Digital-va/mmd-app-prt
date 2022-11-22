@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.googlecode.libphonenumber:prefixmapper:2.155">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/prefixmapper/2.155/8e6983f958e8147b6b36fe259b4700582669e822/prefixmapper-2.155.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/prefixmapper/2.155/5b59d43976dd7bcbe645ca75de2379235fa0a7f9/prefixmapper-2.155-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/prefixmapper/2.155/7f756785d98d3640606b2e1dd88a74901cbc8a28/prefixmapper-2.155-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
